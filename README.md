@@ -1,6 +1,6 @@
-# 🎩 Draco: Draft as CoT for Text-to-Image Preview and Rare Concept Generation
+# 🎩 DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation
 
-Official repository for the paper "[Draco: Draft as CoT for Text-to-Image Preview and Rare Concept Generation]()".
+Official repository for the paper "[DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation]()".
 
 [[📖 Paper](https://arxiv.org/pdf/2505.00703)] [[🤗 Model](https://huggingface.co/CaraJ/T2I-R1)]
 
