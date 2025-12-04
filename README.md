@@ -8,10 +8,10 @@ Official repository for the paper "[Draco: Draft as CoT for Text-to-Image Previe
     <img src="figs/vis.jpg" width="100%"> <br>
 </p>
 
-### 💥 News
+## 💥 News
 - **[2025.12.05]** We release the [arxiv paper](). Code is coming soon. 🔥
 
-### 🪄 Drafting Before Generation
+## 🪄 Draft Before Generation
 
 <p align="center">
     <img src="figs/method.png" width="100%"> <br>
@@ -23,7 +23,7 @@ Our method 🎨 **first generates a low-resolution draft image as a preview** , 
 
 Then, we 🔎 **employ the model’s inherent understanding capability to verify potential semantic misalignments** between the draft and input prompt, and 🖼️ **perform refinement through selective corrections with superresolution**.
 
-### 🧠 Related Work
+## 🧠 Related Work
 
 Explore our additional research on **Autoregressive Text-to-Image Generation** and  **CoT Reasoning** 
 
