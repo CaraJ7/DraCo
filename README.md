@@ -2,7 +2,7 @@
 
 Official repository for the paper "[DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation]()".
 
-[[📖 Paper](https://arxiv.org/pdf/2512.05112)] [[🤗 Model](https://huggingface.co/CaraJ/T2I-R1)]
+[[📖 Paper](https://arxiv.org/pdf/2512.05112)] [[🤗 Model](https://huggingface.co/CaraJ/DraCo)]
 
 <p align="center">
     <img src="figs/vis.jpg" width="100%"> <br>
@@ -19,7 +19,7 @@ Official repository for the paper "[DraCo: Draft as CoT for Text-to-Image Previe
 
 We propose **Draft-as-CoT _(DraCo)_**, a novel interleaved reasoning paradigm that fully leverages both textual and visual contents in CoT for better planning and verification. 
 
-Our method 🎨 **first generates a low-resolution draft image as a preview** , providing more concrete and structural visual planning and guidance. 
+Our method 🎨 **first generates a low-resolution draft image as a preview**, providing more concrete and structural visual planning and guidance. 
 
 Then, we 🔎 **employ the model’s inherent understanding capability to verify potential semantic misalignments** between the draft and input prompt, and 🖼️ **perform refinement through selective corrections with superresolution**.
 
