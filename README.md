@@ -2,14 +2,14 @@
 
 Official repository for the paper "[DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation]()".
 
-[[📖 Paper](https://arxiv.org/pdf/2505.00703)] [[🤗 Model](https://huggingface.co/CaraJ/T2I-R1)]
+[[📖 Paper](https://arxiv.org/pdf/2512.05112)] [[🤗 Model](https://huggingface.co/CaraJ/T2I-R1)]
 
 <p align="center">
     <img src="figs/vis.jpg" width="100%"> <br>
 </p>
 
 ## 💥 News
-- **[2025.12.05]** We release the [arxiv paper](). Code is coming soon. 🔥
+- **[2025.12.05]** We release the [arxiv paper](https://arxiv.org/pdf/2512.05112). Code is coming soon. 🔥
 
 ## 🪄 Draft Before Generation
 
